@@ -1,23 +1,4 @@
 {
-	"299_cut.png": {
-		"fileref": "",
-		"size": 11967,
-		"filename": "299_cut.png",
-		"base64_img_data": "",
-		"file_attributes": {},
-		"regions": {
-			"0": {
-				"shape_attributes": {
-					"name": "polygon",
-					"all_points_x": [0.6772908366533958, 30.97609561752987, 31.64940239043824, 1.0139442231075788, 0.6772908366533958],
-					"all_points_y": [81.47011952191231, 85.17330677290832, 1.0099601593625493, 0.6733067729083662, 81.47011952191231]
-				},
-				"region_attributes": {
-					"label": "forest"
-				}
-			}
-		}
-	},
 	"1.png": {
 		"fileref": "",
 		"size": 162023,
